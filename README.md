@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+Hi guys!
+I am an Amateur, i like coffee BTW :P
